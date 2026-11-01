@@ -70,7 +70,7 @@
 ## 🌐 Connect With Us
 
 - **Official Website:** [https://www.awsavya.in](https://www.awsavya.in)
-- **Direct Email:** [hello@awsavya.in](mailto:hello@awsavya.in)
+- **Direct Email:** [awsavya@gmail.com](mailto:awsavya@gmail.com)
 - **HQ / Location:** India
 - **Founders:**
   - **Vivek** — [@vyom027](https://github.com/vyom027)
